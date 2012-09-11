@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<config>
+    <mixpanel token="PUT_YOUR_MIXPANEL_TOKEN_HERE"/>
+</config>
